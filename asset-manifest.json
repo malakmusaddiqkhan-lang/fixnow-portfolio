@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fixnow-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/fixnow-portfolio/static/js/main.6c8a77de.js",
+    "main.js": "/fixnow-portfolio/static/js/main.6e883cc6.js",
     "static/js/453.fcb84498.chunk.js": "/fixnow-portfolio/static/js/453.fcb84498.chunk.js",
     "index.html": "/fixnow-portfolio/index.html",
     "main.f855e6bc.css.map": "/fixnow-portfolio/static/css/main.f855e6bc.css.map",
-    "main.6c8a77de.js.map": "/fixnow-portfolio/static/js/main.6c8a77de.js.map",
+    "main.6e883cc6.js.map": "/fixnow-portfolio/static/js/main.6e883cc6.js.map",
     "453.fcb84498.chunk.js.map": "/fixnow-portfolio/static/js/453.fcb84498.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6c8a77de.js"
+    "static/js/main.6e883cc6.js"
   ]
 }
